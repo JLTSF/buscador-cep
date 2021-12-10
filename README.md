@@ -8,8 +8,9 @@
 
 #
 
-- Faça o clone desse repositorio
-- Abra o terminal no diretorio raiz do projeto e execute o comando `yarn start.`
+- Faça o clone desse repositorio.
+- Abra o terminal no diretorio raiz do projeto e execute o comando `yarn` para instalar as dependências.
+- Em seguida execute o comando `yarn start`, isso ira permitir que visualize a aplicação na porta 3000 de seu Browser [http://localhost:3000](http://localhost:3000).
 
 #
 
